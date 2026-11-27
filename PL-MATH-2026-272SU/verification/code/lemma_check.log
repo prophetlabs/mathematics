@@ -1,0 +1,15 @@
+n=1: all 1 F_M pass Lemmas 2-4 and Steps 1-3 (first closing step t ranges over [2])
+n=2: all 2 F_M pass Lemmas 2-4 and Steps 1-3 (first closing step t ranges over [2, 3])
+n=3: all 5 F_M pass Lemmas 2-4 and Steps 1-3 (first closing step t ranges over [2, 3, 4])
+n=4: all 14 F_M pass Lemmas 2-4 and Steps 1-3 (first closing step t ranges over [2, 3, 4, 5])
+n=5: all 42 F_M pass Lemmas 2-4 and Steps 1-3 (first closing step t ranges over [2, 3, 4, 5, 6])
+n=6: all 132 F_M pass Lemmas 2-4 and Steps 1-3 (first closing step t ranges over [2, 3, 4, 5, 6, 7])
+n=7: all 429 F_M pass Lemmas 2-4 and Steps 1-3 (first closing step t ranges over [2, 3, 4, 5, 6, 7, 8])
+n=8: all 1430 F_M pass Lemmas 2-4 and Steps 1-3 (first closing step t ranges over [2, 3, 4, 5, 6, 7, 8, 9])
+n=2: 100 random maximal even families (sizes 4..4, 100 of size 2^n) pass Lemma 2 (a)-(c) and the bound chain
+n=3: 100 random maximal even families (sizes 5..8, 80 of size 2^n) pass Lemma 2 (a)-(c) and the bound chain
+n=4: 100 random maximal even families (sizes 8..16, 33 of size 2^n) pass Lemma 2 (a)-(c) and the bound chain
+n=5: 100 random maximal even families (sizes 9..32, 7 of size 2^n) pass Lemma 2 (a)-(c) and the bound chain
+n=6: 100 random maximal even families (sizes 11..64, 1 of size 2^n) pass Lemma 2 (a)-(c) and the bound chain
+n=7: 100 random maximal even families (sizes 14..84, 0 of size 2^n) pass Lemma 2 (a)-(c) and the bound chain
+n=8: 100 random maximal even families (sizes 17..200, 0 of size 2^n) pass Lemma 2 (a)-(c) and the bound chain

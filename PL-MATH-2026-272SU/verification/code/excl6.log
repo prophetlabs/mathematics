@@ -1,0 +1,2 @@
+n=6: 924 paths, 132 F_M excluded, solver=cadical153
+n=6: UNSAT -- every extremal family is some F_M (2455s)
